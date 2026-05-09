@@ -25,5 +25,5 @@ jobs:
       - name: Lint PHP Files
         run: find . -name "*.php" -exec php -l {} \;
 
-      - name: Run Basic Tests
-        run: echo "Running tests..."
+      - name: Run Automated Tests
+        run: php tests/ContactFormTest.php
