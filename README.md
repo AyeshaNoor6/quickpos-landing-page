@@ -5,12 +5,7 @@ The objective of this project is to develop a modern and responsive landing page
 
 ---
 
-# Team Roles
-
-## Project Manager / QA
-- Managed Jira board and sprint planning
-- Created user stories and tracked tasks
-- Performed testing and bug tracking
+# T
 
 ## Tech Lead
 - Managed GitHub repository
